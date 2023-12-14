@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\bin\Debug\net7.0\prog2-datastruk.exe
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\bin\Debug\net7.0\prog2-datastruk.deps.json
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\bin\Debug\net7.0\prog2-datastruk.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\bin\Debug\net7.0\prog2-datastruk.dll
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\bin\Debug\net7.0\prog2-datastruk.pdb
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\obj\Debug\net7.0\prog2-datastruk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\obj\Debug\net7.0\prog2-datastruk.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\obj\Debug\net7.0\prog2-datastruk.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\obj\Debug\net7.0\prog2-datastruk.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\obj\Debug\net7.0\prog2-datastruk.dll
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\obj\Debug\net7.0\refint\prog2-datastruk.dll
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\obj\Debug\net7.0\prog2-datastruk.pdb
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\obj\Debug\net7.0\prog2-datastruk.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\BreakOut\prog2-datastruk\obj\Debug\net7.0\ref\prog2-datastruk.dll
